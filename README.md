@@ -11,7 +11,7 @@ I'm a budding Software Engineer with deep interests in frontend engineering and 
 - 🌱 I’m currently learning JavaScript, Reactjs, and DevOps.
 - 😊 I’m seeking for help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, DevOps Engineer, or Cloud Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing mailtosegunalofun@protonmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1NjKEE_UFqvSZNgVGeWX2pnyHGLCo9Gu0/view?usp=share_link) and contact me by emailing mailtosegunalofun@protonmail.com.
 
 ---
 
