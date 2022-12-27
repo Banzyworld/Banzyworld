@@ -15,6 +15,8 @@ I'm a budding Software Engineer with deep interests in frontend engineering and 
 
 ---
 
-|[![Banzyworld's GitHub stats](https://github-readme-stats.vercel.app/api?username=banzyworld&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)](https://github.com/banzyworld/github-readme-stats)| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banzyworld&langs_count=8&layout=compact&hide_border=true&theme=tokyonight" alt="Banzyworld's GitHub stats" />
+|[![segunAlf-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=segunAlf-dev
+&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)](https://github.com/segunAlf-dev
+/github-readme-stats)| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=segunAlf-dev &langs_count=8&layout=compact&hide_border=true&theme=tokyonight" alt="segunAlf-dev's GitHub stats" />
 | ------------- | ------------- |
 
