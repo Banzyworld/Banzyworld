@@ -15,10 +15,14 @@ I'm a budding Software Engineer with deep interests in frontend engineering and 
 
 ---
 
-|[![segunAlf-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=segunAlf-dev
+<!-- |[![segunAlf-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=segunAlf-dev
 &show_icons=true&hide_border=true&count_private=true&theme=tokyonight)](https://github.com/segunAlf-dev
 /github-readme-stats)| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=segunAlf-dev &langs_count=8&layout=compact&hide_border=true&theme=tokyonight" alt="segunAlf-dev's GitHub stats" />
-| ------------- | ------------- |
+| ------------- | ------------- | -->
+<h3>My GitHub Stats:</h3>
+<div><a href="http://github.com/segunAlf-dev"><img src="https://github-readme-stats.vercel.app/api?username=segunAlf-dev&show_icons=true&hide=&count_private=true&theme=nightowl"</a></div>
+<!--
+<div><a href="http://www.github.com/segunAlf-dev"><img src="https://github-readme-stats.vercel.app/api?username=segunAlf-dev&show_icons=true&hide=&count_private=true&title_color=5E3E85&text_color=6E6F71&icon_color=D2C8DE&bg_color=ffffff&hide_border=false&show_icons=true%22%20alt="SegunAlf's github stats"/></a></div>-->
 
 <h3>Connect with me!</h3>
 <p><a href="https://www.linkedin.com/in/banzyworld/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  alt="linkedIn" width="25" height="25" /></a>
